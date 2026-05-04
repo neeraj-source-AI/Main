@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Excel temp files
+~$*.xlsx
+
+# Local outputs
+*.pptx
+*.xlsx
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
